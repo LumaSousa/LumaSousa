@@ -3,7 +3,7 @@
 - 👾 Sou estudante de engenharia de computação
 - 👽 Estudando python, C e C++
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilumidev&show_icons=true&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LumaSousa&show_icons=true&theme=radical"/>
 
 ##
   
