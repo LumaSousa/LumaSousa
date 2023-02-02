@@ -1,11 +1,36 @@
-# **Who am I?**
+# **Olá! Eu sou a Luma Sousa**
 
-I am a 17 year old female programmer. And that's the main thing you need to know about me: even as a young woman, I'm willing to show my skills in the male-dominated tech market, and with determination, nothing can shake me.
-If you want to know more, follow me in here!
+- 👾 Sou estudante de engenharia de computação
+- 👽 Estudando python, C e C++
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilumidev&show_icons=true&theme=radical"/>
+
+##
+  
+ <div  valign="top"><br>
+  <img align="center" alt="React" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+  <img align="center" alt="Redux" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Js" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
+  <img align="center" alt="Js" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg">
+  <img align="center" alt="HTML" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="CSS" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="nodejs" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg">
+  <img align="center" alt="Wa-Jest" height="60" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  
+ ##
 
  <a href="https://www.instagram.com/lumosinea" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lumosinea">
+  <img height="25"  src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lumosinea">
 </a>
+<a href="https://https://www.linkedin.com/in/luma-sousa-de-queiroz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:luma.sousa@academico.ifpb.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-![octocat-1659661794567](https://user-images.githubusercontent.com/110626877/182980848-3820675f-f036-460c-8b09-07214cc77810.png)
+
+
+
+
+
+          
+
 
